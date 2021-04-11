@@ -1,4 +1,3 @@
-:wq!
 module.exports = {
 
     bitnami:
